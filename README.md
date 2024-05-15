@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem vindo 👋
 
-<!--
-**jvsss1/jvsss1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é João Vitor
+- Tenho 17 anos
+- Estou usando o Alura e aprendendo a linguagem java script
+- Estou usando as aulas para me desenvolver
 
-Here are some ideas to get you started:
+  
+- Entre em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  00001114345143sp.al.educacao.sp.gov.br
+  
+  Vj595858@gmail.com
+
+
